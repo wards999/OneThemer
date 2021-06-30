@@ -12,8 +12,8 @@ The main screen will be shown:
 
 ![Screenshot](screenshot.png)
 
-
-Load Themem - Load a OnceCommander xaml theme
+\
+Load Theme - Load a OnceCommander xaml theme (you'll have to navigate to the correct folder...)
 
 Dark/Light Toggle - When modifying a light or dark theme it's often easier to match the UI required. So click the Dark/Light Toggle button as appropriate
 
