@@ -1,9 +1,14 @@
 # OneThemer
 
-This application has been designed to help customise existing OneCommander themes visually - rather than modifying xaml in a text editor.\
+This application has been designed to help customise existing One Commander themes visually - rather than modifying xaml in a text editor.\
 The focus is purely on color changes, so for other theme changes you'll still need to get your hands dirty :)
 \
 \
+Background:
+One Commander V3 is a fantastic file manager for Windows 10 and Windows 11.
+Please see https://www.onecommander.com/ for more information.
+\
+
 How to use:  
 Download and unzip the main file\
 Launch OneThemer.exe\
@@ -13,7 +18,7 @@ The main screen will be shown:
 ![Screenshot](screenshot.png)
 
 \
-Load Theme - Load a OnceCommander xaml theme (you'll have to navigate to the correct folder...)
+Load Theme - Load a OneCommander xaml theme (you'll have to navigate to the correct folder...)
 
 Dark/Light Toggle - When modifying a light or dark theme it's often easier to match the UI required. So click the Dark/Light Toggle button as appropriate
 
