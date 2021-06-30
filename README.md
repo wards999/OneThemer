@@ -4,7 +4,8 @@ This application has been designed to help customise existing One Commander them
 The focus is purely on color changes, so for other theme changes you'll still need to get your hands dirty :)
 \
 \
-Background:
+Background
+\
 One Commander is a fantastic file manager for Windows 10 and Windows 11.
 Please see https://www.onecommander.com/ for more information.
 
