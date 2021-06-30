@@ -12,7 +12,7 @@ Please see https://www.onecommander.com/ for more information.
 
 
 
-How to use:  
+How to use OneThemer:  
 Download and unzip the main file\
 Launch OneThemer.exe\
 \
