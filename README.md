@@ -7,6 +7,7 @@ The focus is purely on color changes, so for other theme changes you'll still ne
 How to use:  
 Download and unzip the main file\
 Launch OneThemer.exe\
+\
 The main screen will be shown:
 
 ![Screenshot](screenshot.png)
