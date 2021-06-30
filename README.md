@@ -9,6 +9,7 @@ Download and unzip the main file\
 Launch OneThemer.exe\
 The main screen will be shown:
 
+![Screenshot](screenshot.png)
 
 
 Load the appropriate base theme
