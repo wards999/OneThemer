@@ -7,11 +7,11 @@ The focus is purely on color changes, so for other theme changes you'll still ne
 Background
 \
 One Commander is a fantastic file manager for Windows 10 and Windows 11.
-Please see https://www.onecommander.com/ for more information.
+Please visit https://www.onecommander.com/ for more information.
 
 
 
-
+\
 How to use OneThemer:  
 Download and unzip the main file\
 Launch OneThemer.exe\
