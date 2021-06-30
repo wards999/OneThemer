@@ -5,10 +5,9 @@ The focus is purely on color changes, so for other theme changes you'll still ne
 \
 \
 Background:
-One Commander V3 is a fantastic file manager for Windows 10 and Windows 11.
+One Commander is a fantastic file manager for Windows 10 and Windows 11.
 Please see https://www.onecommander.com/ for more information.
 \
-
 How to use:  
 Download and unzip the main file\
 Launch OneThemer.exe\
