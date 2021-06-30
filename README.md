@@ -13,7 +13,7 @@ Please visit https://www.onecommander.com/ for more information.
 
 \
 How to use OneThemer:  
-Download and unzip the main file\
+Download and unzip OneThemer.zip from the Releases link\
 Launch OneThemer.exe\
 \
 The main screen will be shown:
