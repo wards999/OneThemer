@@ -38,7 +38,6 @@ Vertically next to this in the narrow column are shown minor color changes (ligh
 Alternatively select a color from one of the palette entries and tweak using this sliders.
 \
 \
-
 Hovering over the entries in the left hand list shows a tooltip giving extra info on what the entry represents
 
 
