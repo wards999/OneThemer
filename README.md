@@ -52,7 +52,9 @@ Note: Hovering over an entry in the left hand list displays a tooltip giving det
 
 \
 \
-Guidelines - How to create a theme:
+Guidelines - 
+\
+How to create a theme:
 \
 Navigate to \OneCommanderFolder\Themes\ (portable version of One Commander) or to C:\Users\Yourname\OneCommander\Themes (Microsoft Store version)
 
@@ -63,7 +65,9 @@ In One Commander open Settings and select that new theme
 Open OneThemer and navigate to the same new folder and open the .xaml file from the folder
 \
 
+
 The typical iteration process is:
+\
 Select an entry in OneThemer and change its color (Apply Single button) or all entries in the theme that share the color (Apply Matches button)
 
 Click the Save Changes button
