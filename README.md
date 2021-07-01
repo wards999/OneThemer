@@ -22,7 +22,7 @@ The main screen will be shown:
 ![Screenshot](screenshot.png)
 
 \
-Load Theme - Load a OneCommander xaml theme (you'll have to navigate to the correct folder...)
+Load Theme - Load a One Commander xaml theme (you'll have to navigate to the correct folder...)
 
 Dark/Light Toggle - When modifying a light or dark theme it's often easier to match the UI required. So click the Dark/Light Toggle button as appropriate
 
@@ -44,7 +44,7 @@ Save changes - Saves the changes to the selected theme file and creates a backup
 \
 When you select an item from the left hand list it appears in the middle section color box. 
 Vertically next to this in the narrow column are shown minor color changes (ligher and darker) - any can be clicked
-Alternatively select a color from one of the palette entries and tweak using this sliders.
+Alternatively select a color from one of the palette entries and tweak using the sliders.
 \
 \
 Hovering over the entries in the left hand list shows a tooltip giving extra info on what the entry represents
