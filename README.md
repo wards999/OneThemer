@@ -47,7 +47,7 @@ Vertically next to this in the narrow column are shown minor color changes (ligh
 Alternatively select a color from one of the palette entries and tweak using the sliders.
 \
 \
-Hovering over the entries in the left hand list shows a tooltip giving extra info on what the entry represents
+Note: Hovering over an entry in the left hand list displays a tooltip giving details on what it represents in the One Commander GUI
 
 
 
