@@ -14,7 +14,13 @@ Download and unzip OneThemer.zip from the Releases link
 
 Launch OneThemer.exe
 
-The main screen will be shown:
+The main screen will be shown (dark mode):
+
+![Screenshot](screenshot-start.png)
+
+
+
+And after loading a theme (light mode):
 
 ![Screenshot](screenshot.png)
 
@@ -47,7 +53,7 @@ Note: Hovering over an entry in the left hand list displays a tooltip giving det
 
 ## How to create a theme ##
 
-* Navigate to \OneCommanderFolder\Themes\ (portable version of One Commander) or to C:\Users\Yourname\OneCommander\Themes (Microsoft Store version)
+* Navigate to your \OneCommanderFolder\Themes\ folder (if you're running the portable version of One Commander) or to C:\Users\Yourname\OneCommander\Themes (Microsoft Store version)
 
 * Duplicate a theme folder of the theme that is the closest starting point to the one you want to create and give it a new name
 
